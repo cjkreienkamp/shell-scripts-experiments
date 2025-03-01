@@ -1,0 +1,14 @@
+total 72
+drwxr-xr-x  13 chriskreienkamp  staff  416 Jun  7 10:27 .
+drwxr-xr-x   6 chriskreienkamp  staff  192 Jun  7 09:10 ..
+-rwxr-xr-x   1 chriskreienkamp  staff  311 Jun  7 09:37 conditionalStatements.sh
+-rw-r--r--   1 chriskreienkamp  staff   57 Jun  7 09:17 file.txt
+-rw-r--r--   1 chriskreienkamp  staff    0 Jun  7 10:27 file1.txt
+-rw-r--r--   1 chriskreienkamp  staff    0 Jun  7 10:27 file2.txt
+-rwxr-xr-x   1 chriskreienkamp  staff   38 Jun  7 09:11 helloScript.sh
+-rwxr-xr-x   1 chriskreienkamp  staff  151 Jun  7 09:23 hereDoc.sh
+-rwxr-xr-x   1 chriskreienkamp  staff  298 Jun  7 10:10 loops.sh
+-rwxr-xr-x   1 chriskreienkamp  staff  155 Jun  7 09:17 outputToFile.sh
+-rwxr-xr-x   1 chriskreienkamp  staff  122 Jun  7 10:23 scriptInput.sh
+-rwxr-xr-x   1 chriskreienkamp  staff   75 Jun  7 10:24 scriptInputFromFile.sh
+-rwxr-xr-x   1 chriskreienkamp  staff  206 Jun  7 10:27 scriptOutput.sh

@@ -1,0 +1,8 @@
+walks through step by step procedure
+    bash -x ./fileName.sh
+or
+    #!/bin/bash -x
+or can select from what points you want to debug
+    set -x
+    ...code you want to debug...
+    set +x
