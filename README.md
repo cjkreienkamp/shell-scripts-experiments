@@ -28,3 +28,7 @@ A collection of Bash shell scripts designed to automate tasks, manage system pro
    ```bash
    git clone https://github.com/cjkreienkamp/shell-scripts-experiments.git
    cd shell-scripts-experiments
+2. Grant execution permissions:
+   chmod +x script_name.sh
+3. Run the script:
+   ./script_name.sh
